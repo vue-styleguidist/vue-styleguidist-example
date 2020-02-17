@@ -2,7 +2,6 @@ You can modify the code through the playground
 
 ```jsx
 let isOpen = false;
-const merge = require("lodash/merge").default
 
 <button @click.prevent="isOpen = true">Open</button>
 <Modal :showModal="isOpen">

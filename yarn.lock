@@ -6084,10 +6084,10 @@ react-simple-code-editor@^0.10.0:
   resolved "https://registry.yarnpkg.com/react-simple-code-editor/-/react-simple-code-editor-0.10.0.tgz#73e7ac550a928069715482aeb33ccba36efe2373"
   integrity sha512-bL5W5mAxSW6+cLwqqVWY47Silqgy2DKDTR4hDBrLrUqC5BXc29YVx17l2IZk5v36VcDEq1Bszu2oHm1qBwKqBA==
 
-react-simple-code-editor@^0.9.4:
-  version "0.9.15"
-  resolved "https://registry.yarnpkg.com/react-simple-code-editor/-/react-simple-code-editor-0.9.15.tgz#59e3583832e9e98992d3674b2d7673b4cd1c5709"
-  integrity sha512-M8iKgjBTBZK92tZYgOEfMuR7c3zZ0q0v3QYllSxIPx3SU+w003VofH50txXQSBTu92pSOm2tidON1HbQ1l8BDA==
+react-simple-code-editor@^0.11.0:
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/react-simple-code-editor/-/react-simple-code-editor-0.11.0.tgz#bb57c7c29b570f2ab229872599eac184f5bc673c"
+  integrity sha512-xGfX7wAzspl113ocfKQAR8lWPhavGWHL3xSzNLeseDRHysT+jzRBi/ExdUqevSMos+7ZtdfeuBOXtgk9HTwsrw==
 
 react-styleguidist@^10.6.2:
   version "10.6.2"
@@ -7796,10 +7796,10 @@ vue-style-loader@^4.1.0:
     hash-sum "^1.0.2"
     loader-utils "^1.0.2"
 
-vue-styleguidist@^4.9.1:
-  version "4.9.1"
-  resolved "https://registry.yarnpkg.com/vue-styleguidist/-/vue-styleguidist-4.9.1.tgz#a0243b35c83cfae46b62e550ebeef097f0b0fbac"
-  integrity sha512-om8WdqX4SEVRj2pstUfMcqUYCSA2Egdas94xJcRZJR8xUUA+MSey/arBuG8SDfoJzDHse/5NeVpaLOUYZcVjKA==
+vue-styleguidist@^4.10.1:
+  version "4.10.1"
+  resolved "https://registry.yarnpkg.com/vue-styleguidist/-/vue-styleguidist-4.10.1.tgz#7b843d27591f2781f431d01d21ddc6703efb000e"
+  integrity sha512-LhdFrtmjKW1Xu6C6K1gs2OlM1BwHGFE012HiorcAG7TE0wNJCaO6HhJUXTR2qyn7Sz3vBxS6FsNnhbhTi7FeTg==
   dependencies:
     "@vxna/mini-html-webpack-template" "^1.0.0"
     ast-types "^0.13.2"
@@ -7841,7 +7841,7 @@ vue-styleguidist@^4.9.1:
     react-group "^1.0.6"
     react-icons "^3.7.0"
     react-lifecycles-compat "^3.0.4"
-    react-simple-code-editor "^0.9.4"
+    react-simple-code-editor "^0.11.0"
     react-styleguidist "^10.6.2"
     rewrite-imports "^2.0.3"
     style-loader "^1.0.0"

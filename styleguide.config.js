@@ -3,8 +3,17 @@ const vueLoader = require("vue-loader");
 module.exports = {
   title: "Vue Style Guide Example",
   components: "src/components/**/[A-Z]*.vue",
+  require: ["./prism-vsc.css"],
+  jssThemedEditor: false,
   defaultExample: true,
   progressBar: true,
+  styles: {
+    Editor: {
+      root: {
+        isolate: false
+      }
+    }
+  },
   webpackConfig: {
     module: {
       rules: [
