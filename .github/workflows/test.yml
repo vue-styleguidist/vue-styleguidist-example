@@ -21,3 +21,6 @@ jobs:
 
       - name: Build
         run: yarn run styleguide:build
+
+      - name: e2e
+        run: yarn run cy:run
