@@ -1,0 +1,4 @@
+open-pull-requests-limit: 10
+schedule:
+      # Check for updates managed by Composer once a week
+      interval: "monthly"
